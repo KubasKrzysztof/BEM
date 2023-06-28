@@ -5,5 +5,10 @@
 }
 
 body {
-  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-family: "Ubuntu", sans-serif;
+  background-color: black;
 }/*# sourceMappingURL=styleBEN.css.map */
